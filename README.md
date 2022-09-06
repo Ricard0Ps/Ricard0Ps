@@ -1,10 +1,11 @@
-### Olá!!!! Eu sou o Ricardo Peixoto
+### Olá!! Eu sou o Ricardo Peixoto
 
 
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando banco de dados e back-end
 
+##
 
 <div align="center">
   <a href="https://github.com/Ricard0Ps">
