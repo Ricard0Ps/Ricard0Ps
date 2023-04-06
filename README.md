@@ -1,4 +1,4 @@
-#### Olá! Meu nome é Ricardo Peixoto
+#### Olá! Meu nome é Ricardo Peixoto da Silva
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estou estudando banco de dados e back-end
 
