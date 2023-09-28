@@ -32,4 +32,4 @@ src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-
 </div>
 
 
-  ![Snake animation](https://github.com/RcardoPs/RcardoPs/blob/output/github-contribution-grid-snake.svg)
+ 
