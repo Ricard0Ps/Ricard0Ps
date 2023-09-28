@@ -1,19 +1,23 @@
-#### Olá! Meu nome é Ricardo Peixoto da Silva
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estou estudando banco de dados e back-end
+### Eai! Eu sou o Ricardo Peixoto
+
+- 🧑‍🎓 Sou aluno da PUC Minas no Curso de Analíse e Desenvolvimento de Sistemas
+- 🔭 Hoje me identifico mais com front-end
+- 🌱 Estou estundando um pouco mais sobre Back end
+
 
 ##
 
 <div align="center">
-  <a href="https://github.com/RicardoPS">
-  <img height="155px" src="https://github-readme-stats.vercel.app/api?username=RcardoPs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RcardoPs&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/RcardoPs">
+  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=RcardoPs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RcardoPs&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ricardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ricardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ricardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ricardo-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ricardo-react" height="30" width="40" 
 src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   
